@@ -9,7 +9,7 @@
             height: 180px;
         }
         #hero{
-            background: url('{{asset('user/images/hero-bg.jpg')}}') top center;
+            background: url('{{asset('user/images/FOg1eWvUcAcSFWo.jpg')}}') top center;
         }
         .image-center{
           display: block;
